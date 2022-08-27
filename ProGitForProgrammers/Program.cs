@@ -15,6 +15,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
     Console.WriteLine("I just added this in Visual Studio");
+    Console.WriteLine("I just added this in Visual Studio");
 }
 
 app.UseHttpsRedirection();
